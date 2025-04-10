@@ -1,0 +1,49 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/diicasses/pool/master/nemo_64x69.png",
+        "url_png_logo": "https://raw.githubusercontent.com/diicasses/pool/master/nemo_520x569.png",
+        "location": "Metaverse",
+        "social": {
+            "instagram_handle": "",
+            "discord_handle": "",
+            "reddit_handle": "",
+            "x_handle": "Av_Sebastian",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "telegram_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "$SEBI"
+        },
+        "about": {
+            "me": "",
+            "server": "2x Ubuntu 24.04 servers 32 gig ram, 10 core cpu",
+            "company": 
+    },
+    "my-pool-ids": {
+        "0": "pool1zlp4zm0pcw7uw0f72uch3sdypg7x5qut4tc9d70v0n5g5xuazmx",
+        "1": "17c3516de1c3bdc73d3e573178c1a40a3c6a038baaf056f9ec7ce88a"
+         },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "relay 1",
+                "type": "relay",
+                "key": ""
+            },
+            "1": {
+                "name": "relay 2",
+                "type": "relay",
+                "key": ""
+            },
+            "2": {
+                "name": "block producer",
+                "type": "bp",
+                "key": ""
+              }
+          }
+       }
+    }
+  }
